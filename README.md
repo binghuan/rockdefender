@@ -1,6 +1,6 @@
 # Defender
 
-link to launch to web app: <a href="http://binghuan.github.io/rockdefender/" target="_blank">http://binghuan.github.io/rockdefender/</a>
+link to launch the web app: <a href="http://binghuan.github.io/rockdefender/" target="_blank">http://binghuan.github.io/rockdefender/</a>
 
 Defender
 
