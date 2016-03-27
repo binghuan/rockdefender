@@ -6,7 +6,7 @@ Defender
 
 Nasty Aliens are hurling red rocks at the planet Earth. Our last line of defence- The Paddle. Write the AI for The Paddle to defend the Earth from certain destruction.
 
-Download the instructions manual: defender-test.pdf.
+Download the instructions manual: <a href="defender-test.pdf">defender-test.pdf</a>
 
 This is not specifically a "front-end" test
 
