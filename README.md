@@ -2,7 +2,9 @@
 
 link to launch the web app: <a href="http://binghuan.github.io/rockdefender/" target="_blank">http://binghuan.github.io/rockdefender/</a>
 
-Defender
+<img src="images/illustration.png">
+
+## Defender
 
 Nasty Aliens are hurling red rocks at the planet Earth. Our last line of defence- The Paddle. Write the AI for The Paddle to defend the Earth from certain destruction.
 
