@@ -2,7 +2,7 @@
 
 link to launch the web app: <a href="http://binghuan.github.io/rockdefender/" target="_blank">http://binghuan.github.io/rockdefender/</a>
 
-<img width=""480px src="images/demo.gif">
+<img width="480px" src="images/demo.gif">
 
 ## Defender
 
